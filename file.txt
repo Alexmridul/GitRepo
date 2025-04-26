@@ -1,5 +1,10 @@
 Hello friend
 This si a message
 
+<<<<<<< HEAD
 
 This is a offline changes update failed
+=======
+Upfdated chaneggere
+>>>>>>> c3192c4ce49c4ca8069735129641f1aecf0fd4ec
+  
