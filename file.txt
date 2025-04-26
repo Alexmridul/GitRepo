@@ -2,4 +2,4 @@ Hello friend
 This si a message
 
 
-This is a offline copy
+This is a offline changes update failed
